@@ -18,6 +18,8 @@ https://suciamalia15.github.io/suciamalia/css%20selector/blog.html
 
 https://suciamalia15.github.io/suciamalia/css%20selector/box.html
 
+https://suciamalia15.github.io/suciamalia/flexbox/index.html
+
 https://suciamalia15.github.io/suciamalia/css%20selector/index.html
 
 https://suciamalia15.github.io/suciamalia/Display/index.html
