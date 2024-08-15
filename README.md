@@ -14,3 +14,11 @@ https://suciamalia15.github.io/suciamalia/Belajar%20CSS/css/assets/index.html
 
 https://suciamalia15.github.io/suciamalia/Belajar%20CSS/index.html
 
+https://suciamalia15.github.io/suciamalia/css%20selector/blog.html
+
+https://suciamalia15.github.io/suciamalia/css%20selector/box.html
+
+https://suciamalia15.github.io/suciamalia/css%20selector/index.html
+
+
+
