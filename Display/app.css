@@ -1,0 +1,16 @@
+h1 {
+    background-color: rgb(219, 187, 249);
+    border: 2px solid pink;
+    width: 500px;
+    padding: 100px;
+    margin: 50px;
+    display: none;
+}
+
+span {
+    background-color:rgb(210, 201, 201);
+    border: 2px solid rgb(85, 63, 63);
+    width: 500px;
+    padding: 100px;
+    margin: 50px;
+}
