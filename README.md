@@ -22,6 +22,8 @@ https://suciamalia15.github.io/suciamalia/flexbox/index.html
 
 https://suciamalia15.github.io/suciamalia/media-Query/index.html
 
+https://suciamalia15.github.io/suciamalia/icons/index.html
+
 
 
 https://suciamalia15.github.io/suciamalia/css%20selector/index.html
