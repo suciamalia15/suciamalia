@@ -1,0 +1,22 @@
+body {
+
+    background-color: rgb(121, 186, 247);
+}
+
+h1, h2, h3{
+    color:palevioletred;
+    background-color: aliceblue;
+    font-size: smaller;
+}
+
+span {
+    color:palevioletred;
+}
+
+#list2 {
+    color:aliceblue;
+}
+
+.mark {
+    background-color:rgb(189, 122, 251)
+}
