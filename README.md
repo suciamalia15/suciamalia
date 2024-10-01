@@ -46,6 +46,8 @@ https://suciamalia15.github.io/suciamalia/java%20script/foreach/index.html
 
 https://suciamalia15.github.io/suciamalia/java%20script/java%20script%20dasar/index.html
 
+https://suciamalia15.github.io/suciamalia/java%20script/perulangan%20for/index.html
+
 
 
 
