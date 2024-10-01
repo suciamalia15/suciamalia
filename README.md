@@ -42,6 +42,7 @@ https://suciamalia15.github.io/suciamalia/java%20script/array%20for%20of/index.h
 
 https://suciamalia15.github.io/suciamalia/java%20script/foreach/index.html
 
+https://suciamalia15.github.io/suciamalia/java%20script/java%20script%20dasar/index.html
 
 
 
