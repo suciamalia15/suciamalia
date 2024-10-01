@@ -40,6 +40,8 @@ https://suciamalia15.github.io/suciamalia/GetBootstrap/index2.html
 
 https://suciamalia15.github.io/suciamalia/java%20script/array%20for%20of/index.html
 
+https://suciamalia15.github.io/suciamalia/java%20script/foreach/index.html
+
 
 
 
