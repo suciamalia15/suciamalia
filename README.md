@@ -48,6 +48,10 @@ https://suciamalia15.github.io/suciamalia/java%20script/java%20script%20dasar/in
 
 https://suciamalia15.github.io/suciamalia/java%20script/perulangan%20for/index.html
 
+#Belajar JavaScript DOM
+
+https://suciamalia15.github.io/suciamalia/JS%20DOM/event/index.html
+
 
 
 
