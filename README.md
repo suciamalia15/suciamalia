@@ -52,6 +52,20 @@ https://suciamalia15.github.io/suciamalia/java%20script/perulangan%20for/index.h
 
 https://suciamalia15.github.io/suciamalia/JS%20DOM/event/index.html
 
+https://suciamalia15.github.io/suciamalia/JS%20DOM/eventobject/index.html
+
+https://suciamalia15.github.io/suciamalia/JS%20DOM/eventprevent/index.html
+
+https://suciamalia15.github.io/suciamalia/JS%20DOM/pokemon/index.html
+
+https://suciamalia15.github.io/suciamalia/JS%20DOM/randomcolor/index.html
+
+https://suciamalia15.github.io/suciamalia/JS%20DOM/scorekeep-master/scorekeep-master/index.html
+
+https://suciamalia15.github.io/suciamalia/JS%20DOM/selection/index.html
+
+https://suciamalia15.github.io/suciamalia/JS%20DOM/thiskeyword/index.html
+
 
 
 
