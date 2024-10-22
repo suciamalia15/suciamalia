@@ -48,16 +48,6 @@ https://suciamalia15.github.io/suciamalia/java%20script/java%20script%20dasar/in
 
 https://suciamalia15.github.io/suciamalia/java%20script/perulangan%20for/index.html
 
-#Belajar javascript asynchronous
-
-https://suciamalia15.github.io/suciamalia/HTML/java%20script%20oop/java%20script%20Asynchronous/index.html
-
-https://suciamalia15.github.io/suciamalia/HTML/java%20script%20oop/java%20script%20Asynchronous/asyncawait/index.html
-
-https://suciamalia15.github.io/suciamalia/HTML/java%20script%20oop/java%20script%20Asynchronous/backgroundchanger/index.html
-
-https://suciamalia15.github.io/suciamalia/HTML/java%20script%20oop/java%20script%20Asynchronous/promise/index.html
-
 #Belajar JavaScript DOM
 
 https://suciamalia15.github.io/suciamalia/JS%20DOM/event/index.html
