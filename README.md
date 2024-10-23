@@ -54,7 +54,6 @@ https://suciamalia15.github.io/suciamalia/HTML/java%20script%20oop/java%20script
 
 #belajar javascript asynchronous
 
-java%20script%20oop/java%20script%20Asynchronous/index.html
 
 https://suciamalia15.github.io/suciamalia/java%20script%20oop/java%20script%20Asynchronous/index.html
 
