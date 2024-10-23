@@ -48,6 +48,20 @@ https://suciamalia15.github.io/suciamalia/java%20script/java%20script%20dasar/in
 
 https://suciamalia15.github.io/suciamalia/java%20script/perulangan%20for/index.html
 
+#belajar javascript oop
+
+https://suciamalia15.github.io/suciamalia/HTML/java%20script%20oop/java%20script%20oop/index.html
+
+#belajar javascript asynchronous
+
+java%20script%20oop/java%20script%20Asynchronous/index.html
+
+https://suciamalia15.github.io/suciamalia/java%20script%20oop/java%20script%20Asynchronous/index.html
+
+https://suciamalia15.github.io/suciamalia/java%20script%20oop/java%20script%20Asynchronous/backgroundchanger/index.html
+
+https://suciamalia15.github.io/suciamalia/java%20script%20oop/java%20script%20Asynchronous/promise/index.html
+
 #Belajar JavaScript DOM
 
 https://suciamalia15.github.io/suciamalia/JS%20DOM/event/index.html
@@ -65,6 +79,11 @@ https://suciamalia15.github.io/suciamalia/JS%20DOM/scorekeep-master/scorekeep-ma
 https://suciamalia15.github.io/suciamalia/JS%20DOM/selection/index.html
 
 https://suciamalia15.github.io/suciamalia/JS%20DOM/thiskeyword/index.html
+
+#Membuat Halaman Website Portofolio Menggunakan Tailwind CSS
+
+https://suciamalia15.github.io/suciamalia/latihan%20portofolio/index.html
+
 
 
 
