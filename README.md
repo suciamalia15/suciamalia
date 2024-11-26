@@ -84,6 +84,9 @@ https://suciamalia15.github.io/suciamalia/JS%20DOM/thiskeyword/index.html
 
 https://suciamalia15.github.io/suciamalia/latihan%20portofolio/index.html
 
+#Tugas Portofolio 
+https://suciamalia15.github.io/suciamalia/Portofolio%20suci/index.html
+
 
 
 
