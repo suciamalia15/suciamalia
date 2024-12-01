@@ -80,7 +80,7 @@ https://suciamalia15.github.io/suciamalia/JS%20DOM/selection/index.html
 
 https://suciamalia15.github.io/suciamalia/JS%20DOM/thiskeyword/index.html
 
-#Membuat landing page website dengan bootstrap 
+#Membuat landing page website dengan bootstrap 4
 
 https://suciamalia15.github.io/suciamalia/latihan%20portofolio/index.html
 
