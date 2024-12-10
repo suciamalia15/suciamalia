@@ -30,7 +30,7 @@ https://suciamalia15.github.io/suciamalia/css%20selector/index.html
 
 https://suciamalia15.github.io/suciamalia/Display/index.html
 
-#Belajar CSS Framework Bootstrap 4
+#Belajar CSS Framework Bootstrap 5
 
 https://suciamalia15.github.io/suciamalia/GetBootstrap/index.html
 
